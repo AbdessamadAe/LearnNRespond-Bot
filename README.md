@@ -11,8 +11,7 @@ LearnNRespond-Bot is a conversational agent that not only provides answers to qu
 - **Learning on the Go**: Incorporates new knowledge through user interaction, expanding its database with every new piece of information provided.
 - **Smart Matching**: Employs advanced string matching algorithms to find the best possible response to user queries.
 - **Persistent Knowledge**: Utilizes a JSON file to maintain and update the knowledge base between sessions.
-- **Interactive Experience**: Designed to simulate a friendly conversation with users and prompts them to contribute to its learning.
-- **Seamless Termination**: Allows users to end the conversation simply by typing 'quit', ensuring a smooth user experience.
+- **Interactive Experience**: Designed to simulate a friendly conversation with users and prompt them to contribute to its learning.
 
 ## Getting Started
 
